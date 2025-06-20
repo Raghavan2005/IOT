@@ -56,8 +56,8 @@ graph TD
 ### Setup Steps
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project-name.git
-cd your-project-name
+git clone https://github.com/Raghavan2005/IOT-BASED-SMART-CRADLE-SYSTEM.git
+cd IOT-BASED-SMART-CRADLE-SYSTEM
 
 # Install dependencies
 npm install         # For Node.js backend
